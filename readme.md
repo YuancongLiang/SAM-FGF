@@ -1,6 +1,6 @@
-# $\text{SAM-MSF}^2$
+# $\text{SAM-FGF}$
 
-$\text{SAM-MSF}^2$ is a fine-tuning model based on SAMMed2d, mainly designed for vascular segmentation.
+$\text{SAM-FGF}$ is a fine-tuning model based on SAMMed2d, mainly designed for vascular segmentation.
 
 ## Installation Steps
 
@@ -8,16 +8,16 @@ You can follow the steps below to install:
 
 1. Clone the project to your local machine using the following command:
    
- <!--  git clone https://github.com/YuancongLiang/SAM-MSF2.git -->
+ <!--  git clone https://github.com/YuancongLiang/SAM-FGF.git -->
 
 2. Navigate to the project directory:
    ```
-   cd SAM-MSF2
+   cd SAM-FGF
    ```
 
 3. Create and activate a virtual environment (optional but recommended):
    ```
-   conda create -n sammsf2 python=3.9
+   conda create -n samfgf python=3.9
    ```
 
 4. Install all the required dependencies:
